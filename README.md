@@ -5,11 +5,11 @@ I've been working as Fullstack Developer and Designer at [Cyberg Tech Studio](ht
 
 #### Languages and frameworks:
 
-<img src="./.github/reactjs.png" /> 
-<img src="./.github/nodejs.png" /> 
-<img src="./.github/php.png" /> 
-<img src="./.github/python.png" /> 
-<img src="./.github/django.png" /> 
+<img src="./.github/reactjs.png" width="50" /> 
+<img src="./.github/nodejs.png" width="50" /> 
+<img src="./.github/php.png" width="50" /> 
+<img src="./.github/python.png" width="50" /> 
+<img src="./.github/django.png" width="50" /> 
 <br />
 
 
