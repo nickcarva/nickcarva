@@ -5,6 +5,7 @@ I've been working as Fullstack Developer and Designer at [Cyberg Tech Studio](ht
 
 #### Languages and frameworks:
 
+<img src="https://assets.fontsinuse.com/static/use-media-items/17/16215/full-1052x1052/56702c8b/js.png?resolution=0" width="40" align="left" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="40" align="left" /> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-226032.png" width="40" align="left" /> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" width="40" align="left" /> 
