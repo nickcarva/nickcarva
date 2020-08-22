@@ -3,6 +3,8 @@
 My name is Nicolas, I'm 17 and from Brazil 🇧🇷. I'm passionate about technology since my first experience with it.<br/>
 I've been working as Fullstack Developer and Designer at [Cyberg Tech Studio](https://www.cyberg.tech), which one I am also co-founder.
 
+At my repositories, you can find some experiments with a little bit of everything that I've learning in my career until now.
+
 #### Languages and frameworks:
 
 <img src="https://assets.fontsinuse.com/static/use-media-items/17/16215/full-1052x1052/56702c8b/js.png?resolution=0" width="20" align="left" /> 
