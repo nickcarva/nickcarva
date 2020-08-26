@@ -15,5 +15,4 @@ At my repositories, you can find some experiments with a little bit of everythin
 <img src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png" width="40" /> 
 <br />
 
-
-<img src="https://capinaremos.com/wp-content/uploads/sites/2/2018/05/funny-gif-Bart-Simpson-class-technology.gif" width="400" />
+###### “Have the courage to follow your heart and intuition.<br/>&nbsp;&nbsp;They somehow already know what you truly want to become.” - Steve Jobs
