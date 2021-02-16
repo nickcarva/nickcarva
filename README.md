@@ -1,9 +1,9 @@
 ## Hey there 👋
 
 My name is Nicolas, I'm 18 and from Brazil 🇧🇷. I'm passionate about technology since my first experience with it.<br/>
-I've been working as Fullstack Developer and Designer at [Cyberg Tech Studio](https://www.cyberg.tech), which one I am also co-founder.
+I've been working as Fullstack Developer and Designer at [Cosmonific](https://www.cosmonific.com), which one I am also co-founder and CEO.
 
-Currently, I've started working as Software Developer at Vita's.
+In 2020, I've started working as Software Developer at @ecovitas.
 
 At my repositories, you can find some experiments with a little bit of everything that I've learning in my career until now.
 
