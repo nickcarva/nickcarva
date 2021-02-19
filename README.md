@@ -1,7 +1,7 @@
 ## Hey there 👋
 
 My name is Nicolas, I'm 18 and from Brazil 🇧🇷. I'm passionate about technology since my first experience with it.<br/>
-I've been working as Fullstack Developer and Designer at [Cosmonific](https://www.cosmonific.com), which one I am also co-founder and CEO.
+I've been working as Fullstack Developer and Designer at [Cosmonific](https://www.cosmonific.com), which one I am also co-founder.
 
 In september/2020, I've started working as Software Developer at ecovitas digital, a retailer company, from Curitiba - Paraná.
 
