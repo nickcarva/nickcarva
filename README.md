@@ -13,8 +13,9 @@ At my repositories, you can find some experiments with a little bit of everythin
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" width="45" align="left" /> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/800px-Nextjs-logo.svg.png" width="50" align="left" /> 
 <img src="https://cdn.iconscout.com/icon/free/png-256/nodejs-226032.png" width="40" align="left" /> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" width="40" align="left" /> 
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="35" align="left" /> 
-<img src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png" width="40" />
+<!-- <img src="https://cdn.iconscout.com/icon/free/png-512/php-2038871-1720084.png" width="40" align="left" /> -->
+<!-- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width="35" align="left" /> -->
+<!-- <img src="https://cdn.iconscout.com/icon/free/png-512/django-12-1175186.png" width="40" /> -->
+<br />
 
 ###### “Have the courage to follow your heart and intuition.<br/>&nbsp;&nbsp;They somehow already know what you truly want to become.” - Steve Jobs
