@@ -1,6 +1,6 @@
 ## Hey there 👋
 
-My name is Nicolas, I'm 18 and from Brazil 🇧🇷. I'm passionate about technology since my first experience with it (2018).<br/>
+My name is Nicolas, I'm 19 and from São Paulo - Brazil 🇧🇷. I'm passionate about technology since my first experience with it (2018).<br/>
 I've been working as Fullstack Developer and Designer at [Cosmonific](https://www.cosmonific.com), which one I am also co-founder.
 
 Currently, I'm working as Backend Developer at [N3urons](https://www.n3urons.com), a startup from Recife - Pernambuco.
